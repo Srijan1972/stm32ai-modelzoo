@@ -1,7 +1,7 @@
 general:
-  project_name: AED_project
+  project_name: COL788
   logs_dir: logs
-  saved_models_dir: saved_models
+  saved_models_dir: training
 
 train_parameters:
   batch_size: 16
@@ -13,8 +13,8 @@ train_parameters:
   restore_best_weights: True
 
 dataset:
-  name: esc10
-  class_names: ['dog', 'chainsaw', 'crackling_fire', 'helicopter', 'rain',
+  name: custom
+  class_names: ['dog', 'chainsaw', 'crackling_fire', 'car_horn', 'rain',
        'crying_baby', 'clock_tick', 'sneezing', 'rooster', 'sea_waves']
   audio_path: datasets/ESC-50/audio
   csv_path: datasets/ESC-50/meta/esc50.csv

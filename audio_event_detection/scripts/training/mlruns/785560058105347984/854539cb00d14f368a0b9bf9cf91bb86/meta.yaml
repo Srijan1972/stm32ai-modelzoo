@@ -1,0 +1,15 @@
+artifact_uri: /home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/scripts/training/mlruns/785560058105347984/854539cb00d14f368a0b9bf9cf91bb86/artifacts
+end_time: 1696341661185
+entry_point_name: ''
+experiment_id: '785560058105347984'
+lifecycle_stage: active
+run_id: 854539cb00d14f368a0b9bf9cf91bb86
+run_name: capable-auk-759
+run_uuid: 854539cb00d14f368a0b9bf9cf91bb86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696341466989
+status: 3
+tags: []
+user_id: srijan

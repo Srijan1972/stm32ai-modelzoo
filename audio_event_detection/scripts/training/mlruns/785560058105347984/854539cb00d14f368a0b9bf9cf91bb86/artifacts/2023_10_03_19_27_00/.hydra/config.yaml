@@ -1,0 +1,104 @@
+general:
+  project_name: COL788
+  logs_dir: logs
+  saved_models_dir: training
+train_parameters:
+  batch_size: 16
+  training_epochs: 50
+  optimizer: adam
+  initial_learning: 0.001
+  patience: 100
+  learning_rate_scheduler: reducelronplateau
+  restore_best_weights: true
+dataset:
+  name: custom
+  class_names:
+  - dog
+  - chainsaw
+  - crackling_fire
+  - car_horn
+  - rain
+  - crying_baby
+  - clock_tick
+  - sneezing
+  - rooster
+  - sea_waves
+  audio_path: datasets/ESC-50/audio
+  csv_path: datasets/ESC-50/meta/esc50.csv
+  file_extension: .wav
+  validation_split: 0.1
+  test_split: 0.2
+  test_path: null
+  use_other_class: false
+  n_samples_per_other_class: 2
+dataset_specific:
+  fsd50k:
+    csv_folder: datasets/FSD50K/FSD50K.ground_truth
+    dev_audio_folder: datasets/FSD50K/FSD50K.dev_audio
+    eval_audio_folder: datasets/FSD50K/FSD50K.eval_audio
+    audioset_ontology_path: ../utils/dataset_utils/fsd50k/audioset_ontology.json
+    only_keep_monolabel: true
+pre_processing:
+  min_length: 1
+  max_length: 10
+  target_rate: 16000
+  top_db: 30
+  frame_length: 3200
+  hop_length: 3200
+  trim_last_second: false
+  lengthen: after
+feature_extraction:
+  patch_length: 96
+  n_mels: 64
+  overlap: 0.25
+  n_fft: 512
+  hop_length: 160
+  window_length: 400
+  window: hann
+  center: false
+  pad_mode: constant
+  power: 1.0
+  fmin: 125
+  fmax: 7500
+  norm: None
+  htk: true
+  to_db: false
+  include_last_patch: false
+data_augmentation:
+  GaussianNoise: 0.1
+  VolumeAugment: true
+  min_scale: 0.8
+  max_scale: 1.2
+  SpecAug: false
+  freq_mask_param: 1
+  time_mask_param: 1
+  n_freq_mask: 3
+  n_time_mask: 4
+  mask_value: 0
+model:
+  model_type:
+    name: yamnet
+    embedding_size: 256
+  input_shape:
+  - 64
+  - 96
+  expand_last_dim: true
+  transfer_learning: true
+  fine_tune: false
+  dropout: 0
+  multi_label: false
+quantization:
+  quantize: true
+  evaluate: true
+  quantizer: TFlite_converter
+  quantization_type: PTQ
+  quantization_input_type: int8
+  quantization_output_type: float
+  export_dir: quantized_models
+stm32ai:
+  version: 7.3.0
+  optimization: balanced
+  footprints_on_target: B-U585I-IOT02A
+  path_to_stm32ai: STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-AI/8.0.0/Utilities/windows/stm32ai.exe
+mlflow:
+  uri: ./mlruns
