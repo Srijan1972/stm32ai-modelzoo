@@ -1,0 +1,15 @@
+artifact_uri: /home/dakshit/Desktop/myfiles/IITD/COL788/stm32ai-modelzoo/audio_event_detection/scripts/evaluate/mlruns/486951366573449008/ca72212073604ca7b6c012a1b5cca630/artifacts
+end_time: 1696446635785
+entry_point_name: ''
+experiment_id: '486951366573449008'
+lifecycle_stage: active
+run_id: ca72212073604ca7b6c012a1b5cca630
+run_name: capable-auk-759
+run_uuid: ca72212073604ca7b6c012a1b5cca630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696446567014
+status: 3
+tags: []
+user_id: dakshit

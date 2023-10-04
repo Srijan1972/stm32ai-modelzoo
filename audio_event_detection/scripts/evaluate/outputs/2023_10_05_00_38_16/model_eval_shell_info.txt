@@ -1,0 +1,93 @@
+[INFO] : Successfully connected, starting the model validation on target ...
+[INFO] : Starting the benchmark on target B-U585I-IOT02A, other available boards  ['STM32H7B3I-DK', 'STM32F469I-DISCO', 'B-U585I-IOT02A', 'STM32L4R9I-DISCO', 'NUCLEO-H743ZI2', 'STM32H747I-DISCO', 'STM32H735G-DK', 'STM32F769I-DISCO', 'NUCLEO-G474RE', 'STM32F746G-DISCO']
+[INFO] : Total RAM : 118.34375 (KiB)
+[INFO] :     RAM Activations : 109.56640625 (KiB)
+[INFO] :     RAM Runtime : 8.77734375 (KiB)
+[INFO] : Total Flash : 195.51171875 (KiB)
+[INFO] :     Flash Weights  : 135.9140625 (KiB)
+[INFO] :     Estimated Flash Code : 59.59765625 (KiB)
+[INFO] : MACCs : 23.93202 (M)
+[INFO] : Number of cycles : 48049629 
+[INFO] : Inference Time : 300.3101814421825 (ms)
+[INFO] : Generating the model C code and retrieving STM32Cube.AI Lib from STM32Cube.AI Developer Cloud Services...
+[INFO] Loading Custom dataset using ESC-like format. 
+         Using 10 classes. Classes used : ['dog', 'chainsaw', 'crackling_fire', 'car_horn', 'rain', 'crying_baby', 'clock_tick', 'sneezing', 'rooster', 'sea_waves']
+[INFO] Loading 400 samples.
+[INFO] Training set size : 288 samples 
+ Validation test size : 32 
+ Test set size : 80 samples
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Generated 1323 patches
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Generated 134 patches
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 2 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 2 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 2 times
+[INFO] Sound wave shorter than min_length, repeating
+[INFO] Sound wave repeated 1 times
+[INFO] Generated 344 patches
+[INFO] Evaluating the quantized model ...
+[INFO] Quantization input details : (0.05692856386303902, 34)
+[INFO] Dtype input details : <class 'numpy.int8'>
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[INFO] : Quantized model patch-level accuracy on test set : 0.8866279069767442
+[INFO] : Quantized model clip-level accuracy on test set : 0.9367088607594937
+Generating C header file for Getting Started...
+Done
+Generating C look-up tables files for Getting Started...
+[INFO] Generating LUT header file
+[INFO] Done generating LUT header file
+[INFO] Generating LUT C file
+[INFO] : Done generating LUT C file
+Done

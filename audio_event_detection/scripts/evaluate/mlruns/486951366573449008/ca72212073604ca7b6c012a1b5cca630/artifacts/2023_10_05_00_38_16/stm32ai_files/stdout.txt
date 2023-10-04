@@ -1,0 +1,68 @@
+>>> stm32ai generate --model quantized_model.tflite --allocate-inputs --allocate-outputs --compression lossless --optimization balanced --series stm32f4 --name network --workspace workspace --output output
+Neural Network Tools for STM32 family v1.7.0 (stm.ai v8.1.0-19520)
+ 
+ Exec/report summary (generate)
+ ----------------------------------------------------------------------------------------------------------
+ model file         :   quantized_model.tflite   
+ type               :   tflite                                                                             
+ c_name             :   network                                                                            
+ compression        :   lossless                                                                           
+ options            :   allocate-inputs, allocate-outputs                                                  
+ optimization       :   balanced                                                                           
+ target/series      :   stm32f4                                                                            
+ workspace dir      :   workspace                
+ output dir         :   output                   
+ model_fmt          :   ss/sa per channel                                                                  
+ model_name         :   quantized_model                                                                    
+ model_hash         :   aaceff852b4aaa3d6862247f8c9a23ee                                                   
+ params #           :   134,730 items (135.91 KiB)                                                         
+ ----------------------------------------------------------------------------------------------------------
+ input 1/1          :   'serving_default_input_10' (domain:activations/**default**)                        
+                    :   6144 items, 6.00 KiB, ai_i8, s=0.05692856, zp=34, (1,64,96,1)                      
+ output 1/1         :   'conversion_15' (domain:activations/**default**)                                   
+                    :   10 items, 40 B, ai_float, float, (1,10)                                            
+ macc               :   23,932,020                                                                         
+ weights (ro)       :   139,176 B (135.91 KiB) (1 segment) / -399,744(-74.2%) vs float model               
+ activations (rw)   :   112,196 B (109.57 KiB) (1 segment) *                                               
+ ram (total)        :   112,196 B (109.57 KiB) = 112,196 + 0 + 0                                           
+ ----------------------------------------------------------------------------------------------------------
+ (*) 'input'/'output' buffers can be used from the activations buffer
+ Requested memory size per segment ("stm32f4" series)
+ ----------------------------- -------- --------- ------- ---------
+ module                            text    rodata    data       bss
+ ----------------------------- -------- --------- ------- ---------
+ NetworkRuntime810_CM4_GCC.a     34,364         0       0         0
+ network.o                        1,392     8,279   7,344       356
+ network_data.o                      56        48      88         0
+ lib (toolchain)*                 3,604        24       0         0
+ ----------------------------- -------- --------- ------- ---------
+ RT total**                      39,416     8,351   7,432       356
+ ----------------------------- -------- --------- ------- ---------
+ *weights*                            0   139,176       0         0
+ *activations*                        0         0       0   112,196
+ *io*                                 0         0       0         0
+ ----------------------------- -------- --------- ------- ---------
+ TOTAL                           39,416   147,527   7,432   112,552
+ ----------------------------- -------- --------- ------- ---------
+ *  toolchain objects (libm/libgcc*)
+ ** RT - AI runtime objects (kernels+infrastructure)
+  Summary per memory device type
+  ----------------------------------------------
+  .\device       FLASH       %       RAM      %
+  ----------------------------------------------
+  RT total      55,199   28.4%     7,788   6.5%
+  ----------------------------------------------
+  TOTAL        194,375           119,984
+  ----------------------------------------------
+ Generated files (7)
+ ----------------------------------------------------------------------------------------
+ network_config.h
+ network.h
+ network.c
+ network_data_params.h
+ network_data_params.c
+ network_data.h
+ network_data.c
+
+Creating txt report file network_generate_report.txt
+elapsed time (generate): 2.043s
