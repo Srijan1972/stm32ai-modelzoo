@@ -1,12 +1,14 @@
 general:
-  project_name: AED_project
+  project_name: COL788
+  logs_dir: logs
+  saved_models_dir: saved_models
 
 dataset:
-  name: esc10
-  class_names: ['dog', 'chainsaw', 'crackling_fire', 'helicopter', 'rain',
-       'crying_baby', 'clock_tick', 'sneezing', 'rooster', 'sea_waves']
-  audio_path: datasets/ESC-50/audio
-  csv_path: datasets/ESC-50/meta/esc50.csv
+  name: custom
+  class_names: ['dog', 'chainsaw', 'crackling_fire', 'car_horn', 'rain',
+    'crying_baby', 'clock_tick', 'sneezing', 'rooster', 'sea_waves']
+  audio_path: ../training/datasets/ESC-50/audio
+  csv_path: ../training/datasets/ESC-50/meta/esc50.csv
   file_extension: .wav
   validation_split: 0.1
   test_split : 0.2
@@ -23,11 +25,12 @@ dataset_specific:
     audioset_ontology_path: ../utils/dataset_utils/fsd50k/audioset_ontology.json
     only_keep_monolabel: True
 
+
 pre_processing:
   min_length: 1
   max_length : 10
   target_rate: 16000
-  top_db: 60
+  top_db: 30
   frame_length: 3200
   hop_length: 3200
   trim_last_second: False
@@ -51,7 +54,6 @@ feature_extraction:
   to_db : False
   include_last_patch: False
 
-
 model:
   model_type: {name : yamnet, embedding_size: 256}
   # Shape of a single patch.
@@ -59,12 +61,13 @@ model:
   input_shape: [64, 96]
   expand_last_dim: True
   multi_label : False
-  model_path: ..\..\models\yamnet\ST_pretrainedmodel_public_dataset\esc_10\yamnet_256_64x96\yamnet_256_64x96_int8.tflite
+  # model_path: ..\..\models\yamnet\ST_pretrainedmodel_public_dataset\esc_10\yamnet_256_64x96\yamnet_256_64x96_int8.tflite
+  model_path: ../training/outputs/2023_10_03_19_27_00/quantized_models/quantized_model.tflite
   unknown_class_threshold: 0.0
 
 quantization:
-  quantize: False
-  evaluate: False
+  quantize: True
+  evaluate: True
   quantizer: TFlite_converter
   quantization_type: PTQ
   quantization_input_type: int8
