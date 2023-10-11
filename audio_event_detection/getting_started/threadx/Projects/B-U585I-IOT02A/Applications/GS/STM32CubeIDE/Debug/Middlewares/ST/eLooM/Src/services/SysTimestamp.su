@@ -1,0 +1,10 @@
+../../../../../../Middlewares/ST/eLooM/Inc/drivers/IDriver_vtbl.h:58:18:IDrvInit	16	static
+../../../../../../Middlewares/ST/eLooM/Inc/drivers/IDriver_vtbl.h:63:18:IDrvStart	16	static
+../../../../../../Middlewares/ST/eLooM/Inc/drivers/IDriver_vtbl.h:68:18:IDrvStop	16	static
+../../../../../../Middlewares/ST/eLooM/Inc/drivers/IDriver_vtbl.h:78:18:IDrvReset	16	static
+../../../../../../Middlewares/ST/eLooM/Inc/drivers/ITSDriver_vtbl.h:67:10:ITSDrvGetTimeStamp	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/SysTimestamp.c:52:18:SysTsInit	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/SysTimestamp.c:94:18:SysTsStart	24	static,ignoring_inline_asm
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/SysTimestamp.c:115:18:SysTsStop	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/SysTimestamp.c:126:8:SysTsGetTimestampF	40	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/SysTimestamp.c:135:10:SysTsGetTimestampN	24	static

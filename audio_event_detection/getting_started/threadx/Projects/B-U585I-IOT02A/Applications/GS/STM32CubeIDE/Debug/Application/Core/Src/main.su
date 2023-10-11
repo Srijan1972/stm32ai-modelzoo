@@ -1,0 +1,4 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/main.c:78:5:main	8	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/main.c:145:6:HAL_TIM_PeriodElapsedCallback	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/main.c:158:6:Error_Handler	4	static,ignoring_inline_asm
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/main.c:177:6:assert_failed	16	static

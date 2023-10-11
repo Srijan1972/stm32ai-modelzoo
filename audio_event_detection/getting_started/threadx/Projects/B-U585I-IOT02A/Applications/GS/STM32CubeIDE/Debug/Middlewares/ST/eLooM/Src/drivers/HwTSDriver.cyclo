@@ -1,0 +1,12 @@
+../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_tim.h:2092:22:LL_TIM_SetCounter	1
+../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_tim.h:2106:26:LL_TIM_GetCounter	1
+../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_tim.h:2178:26:LL_TIM_GetAutoReload	1
+../../../../../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_tim.h:5174:22:LL_TIM_ClearFlag_UPDATE	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:84:10:HwTSDriverAlloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:98:18:HwTSDriver_vtblInit	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:122:18:HwTSDriver_vtblStart	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:143:18:HwTSDriver_vtblStop	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:163:18:HwTSDriver_vtblDoEnterPowerMode	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:174:18:HwTSDriver_vtblReset	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:189:10:HwTSDriver_vtblGetTimestamp	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/HwTSDriver.c:231:13:HwTSDriver_TIM_PeriodElapsedCallback	1

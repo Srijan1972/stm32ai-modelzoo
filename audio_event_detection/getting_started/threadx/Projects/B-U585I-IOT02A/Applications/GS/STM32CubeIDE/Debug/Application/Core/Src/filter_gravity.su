@@ -1,0 +1,5 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/filter_gravity.c:49:6:iir_direct2_init	40	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/filter_gravity.c:64:7:iir_direct2_filter	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/filter_gravity.c:78:6:dynamic_acceleration	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/filter_gravity.c:105:14:gravity_suppress_rotate	112	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/filter_gravity.c:138:14:gravity_rotate	112	static

@@ -1,0 +1,6 @@
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/ABusIF.h:158:18:ABusIFSetHandle	2
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/ABusIF.h:176:18:ABusIFInit	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/I2CBusIF.c:32:9:I2CBusIFAlloc	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/I2CBusIF.c:58:18:I2CBusIFWaitIOComplete	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/I2CBusIF.c:74:18:I2CBusIFNotifyIOComplete	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/I2CBusIF.c:93:9:I2CBusNullRW	1

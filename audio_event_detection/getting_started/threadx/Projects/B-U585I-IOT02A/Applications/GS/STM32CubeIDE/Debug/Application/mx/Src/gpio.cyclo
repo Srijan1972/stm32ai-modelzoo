@@ -1,0 +1,5 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/gpio.c:84:6:MX_GPIO_Init	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/gpio.c:424:6:MX_GPIO_PE11_Init	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/gpio.c:442:6:MX_GPIO_PD10_Init	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/gpio.c:460:6:MX_GPIO_PG2_Init	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/gpio.c:478:6:MX_GPIO_PC13_Init	1

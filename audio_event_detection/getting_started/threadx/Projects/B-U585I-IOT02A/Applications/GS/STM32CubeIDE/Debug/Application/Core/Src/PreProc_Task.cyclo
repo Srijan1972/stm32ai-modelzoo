@@ -1,0 +1,14 @@
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:142:18:AMTInitEx	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:165:18:AMTExSetInactiveState	2
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:181:18:AMTExSetPMClass	2
+../../../../../../Projects/eLooM_Components/DPU/Inc/ADPU2.h:414:8:ADPU2_GetInDataPayloadSize	2
+../../../../../../Projects/eLooM_Components/DPU/Inc/ADPU2.h:422:8:ADPU2_GetOutDataPayloadSize	2
+../../Core/Inc/DProcessTask1.h:350:10:DPT1AddDPU	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:128:17:PreProc_TaskAlloc	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:140:17:PreProc_TaskStaticAlloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:155:18:PreProc_TaskSetDpuInBuffer	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:172:18:PreProc_TaskSetSpectrogramType	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:192:18:PreProc_Task_vtblOnCreateTask	5
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:250:18:PreProc_Task_vtblDoEnterPowerMode	6
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:288:25:PreProc_TaskExecuteStepState1	17
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:358:25:PreProc_TaskExecuteStepAIActive	5

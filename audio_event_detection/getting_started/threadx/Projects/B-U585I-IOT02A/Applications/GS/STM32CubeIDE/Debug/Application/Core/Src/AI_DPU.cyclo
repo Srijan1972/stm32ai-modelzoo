@@ -1,0 +1,10 @@
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:446:10:EMD_Data	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:65:13:Preproc_3D_ACC	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:101:18:AI_DPU_vtblProcess	7
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:164:10:AI_DPU_Alloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:176:10:AI_DPU_StaticAlloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:187:18:AI_DPU_SetSensitivity	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:196:18:AI_DPU_Init	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:212:25:AiDPUCheckModel	26
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:269:18:AiDPULoadModel	67
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_DPU.c:376:18:AiDPUReleaseModel	4

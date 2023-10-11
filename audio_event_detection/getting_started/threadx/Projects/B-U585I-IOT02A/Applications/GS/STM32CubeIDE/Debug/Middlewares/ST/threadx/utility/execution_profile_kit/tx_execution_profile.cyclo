@@ -1,0 +1,13 @@
+../../../../../../Middlewares/ST/threadx/ports/cortex_m33/gnu/inc/tx_port.h:294:28:_get_ipsr	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:142:7:_tx_execution_thread_enter	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:244:7:_tx_execution_thread_exit	7
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:369:7:_tx_execution_isr_enter	11
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:544:7:_tx_execution_isr_exit	9
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:670:7:_tx_execution_thread_time_reset	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:718:7:_tx_execution_thread_total_time_reset	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:787:7:_tx_execution_isr_time_reset	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:835:7:_tx_execution_idle_time_reset	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:884:7:_tx_execution_thread_time_get	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:932:7:_tx_execution_thread_total_time_get	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:980:7:_tx_execution_isr_time_get	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/utility/execution_profile_kit/tx_execution_profile.c:1028:7:_tx_execution_idle_time_get	1

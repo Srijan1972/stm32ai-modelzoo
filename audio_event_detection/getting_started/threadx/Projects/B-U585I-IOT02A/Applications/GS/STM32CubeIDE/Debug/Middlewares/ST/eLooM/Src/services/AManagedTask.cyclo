@@ -1,0 +1,4 @@
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTask_vtbl.h:175:18:AMTOnEnterTaskControlLoop	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTask_vtbl.h:201:12:AMTGetTaskPowerMode	3
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTask_vtbl.h:212:18:AMTNotifyIsStillRunning	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/AManagedTask.c:31:6:AMTRun	5

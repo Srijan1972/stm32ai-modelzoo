@@ -1,0 +1,6 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/sysdebug.c:72:5:SysDebugInit	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/sysdebug.c:89:6:null_lockfn	4	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/sysdebug.c:94:6:SysDebugLock	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/sysdebug.c:105:6:SysDebugUnlock	8	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/sysdebug.c:114:5:SysDebugHardwareInit	8	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/sysdebug.c:121:5:__io_putchar	16	static

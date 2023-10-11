@@ -1,0 +1,15 @@
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/drivers/HWDriverMap.h:71:32:HWDriverMap_Init	32	static
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/drivers/HWDriverMap.h:99:37:HWDriverMap_FindByKey	24	static
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/drivers/HWDriverMap.h:122:37:HWDriverMap_FindByInstance	24	static
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/drivers/HWDriverMap.h:146:37:HWDriverMap_GetFreeElement	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:76:18:I2CMasterDriverSetDeviceAddr	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:88:12:I2CMasterDriverAlloc	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:121:18:I2CMasterDriver_vtblInit	40	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:185:18:I2CMasterDriver_vtblStart	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:202:18:I2CMasterDriver_vtblStop	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:219:18:I2CMasterDriver_vtblDoEnterPowerMode	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:229:18:I2CMasterDriver_vtblReset	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:238:18:I2CMasterDriver_vtblWrite	48	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:261:18:I2CMasterDriver_vtblRead	48	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:290:13:I2CMasterDrvMemTxRxCpltCallback	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/I2CMasterDriver.c:309:13:I2CMasterDrvErrorCallback	16	static

@@ -1,0 +1,9 @@
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:414:8:EMD_GetElementSize	2
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:422:10:EMD_GetType	2
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:446:10:EMD_Data	2
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:463:10:EMD_GetElementsCount	3
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:518:10:EMD_1dDataAt	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/DPU/Src/DefDataBuilder.c:66:18:DefDB_vtblOnReset	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/DPU/Src/DefDataBuilder.c:78:18:DefDB_vtblOnNewInData	11
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/DPU/Src/DefDataBuilder.c:158:17:DefDB_Alloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/DPU/Src/DefDataBuilder.c:173:17:DefDB_AllocStatic	3

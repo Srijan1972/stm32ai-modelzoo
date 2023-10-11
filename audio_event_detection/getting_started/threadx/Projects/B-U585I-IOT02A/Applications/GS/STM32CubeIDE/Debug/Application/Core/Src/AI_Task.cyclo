@@ -1,0 +1,16 @@
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:142:18:AMTInitEx	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:165:18:AMTExSetInactiveState	2
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:181:18:AMTExSetPMClass	2
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/ISourceObservable_vtbl.h:104:21:ISourceGetFS	1
+../../../../../../Projects/eLooM_Components/DPU/Inc/ADPU2.h:414:8:ADPU2_GetInDataPayloadSize	2
+../../../../../../Projects/eLooM_Components/DPU/Inc/ADPU2.h:422:8:ADPU2_GetOutDataPayloadSize	2
+../../Core/Inc/DProcessTask1.h:350:10:DPT1AddDPU	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:129:17:AI_TaskAlloc	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:141:17:AI_StaticAlloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:156:18:AI_TaskAllocBufferForDPU	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:173:18:AI_LoadModel	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:189:18:AI_ReleaseModel	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:207:18:AI_Task_vtblOnCreateTask	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:273:25:AI_TaskExecuteStepState1	15
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:325:25:AI_TaskExecuteStepAIActive	5
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AI_Task.c:345:25:_AI_TaskAllocBufferForDPU	10

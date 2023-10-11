@@ -1,0 +1,10 @@
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:97:18:NullAEDInit	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:108:18:NullAEDOnStartApplication	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:119:18:NullAEDProcessEvent	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:132:18:NullAEDOnNewErrEvent	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:143:11:NullAEDIsLastErrorPending	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:153:18:NullAEDAddFirstResponder	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:165:18:NullAEDRemoveFirstResponder	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:176:9:NullAEDGetMaxFirstResponderPriority	1
+../../../../../../Middlewares/ST/eLooM/Inc/services/NullErrorDelegate.h:186:6:NullAEDResetCounter	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/services/NullErrorDelegate.c:37:28:NullAEDAlloc	1

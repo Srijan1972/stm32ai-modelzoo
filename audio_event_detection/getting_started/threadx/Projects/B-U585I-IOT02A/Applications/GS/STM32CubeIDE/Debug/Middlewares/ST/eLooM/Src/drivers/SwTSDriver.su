@@ -1,0 +1,7 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:60:10:SwTSDriverAlloc	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:74:18:SwTSDriver_vtblInit	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:85:18:SwTSDriver_vtblStart	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:95:18:SwTSDriver_vtblStop	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:105:18:SwTSDriver_vtblDoEnterPowerMode	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:116:18:SwTSDriver_vtblReset	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/eLooM/Src/drivers/SwTSDriver.c:130:10:SwTSDriver_vtblGetTimestamp	64	static

@@ -1,0 +1,5 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/X-CUBE-AI/App/aiTestHelper.c:42:6:aiPlatformVersion	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/X-CUBE-AI/App/aiTestHelper.c:55:6:aiLogErr	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/X-CUBE-AI/App/aiTestHelper.c:65:20:aiPrintDataType	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/X-CUBE-AI/App/aiTestHelper.c:78:6:aiPrintBufferInfo	56	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/X-CUBE-AI/App/aiTestHelper.c:143:6:aiPrintNetworkInfo	48	static

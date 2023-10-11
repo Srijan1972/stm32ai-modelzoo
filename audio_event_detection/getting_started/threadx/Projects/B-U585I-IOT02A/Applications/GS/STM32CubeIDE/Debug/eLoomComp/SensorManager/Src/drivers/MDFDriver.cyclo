@@ -1,0 +1,8 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:45:18:MDFDrvSetDataBuffer	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:61:18:MDFSetMDFConfig	8
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:139:10:MDFDriverAlloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:156:18:MDFDriver_vtblInit	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:177:18:MDFDriver_vtblStart	5
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:211:18:MDFDriver_vtblStop	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:238:18:MDFDriver_vtblDoEnterPowerMode	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/drivers/MDFDriver.c:248:18:MDFDriver_vtblReset	2

@@ -1,0 +1,15 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:105:17:CB_Alloc	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:126:6:CB_Free	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:134:10:CB_Init	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:155:6:CB_IsEmpty	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:168:6:CB_IsFull	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:181:10:CB_GetUsedItemsCount	5
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:204:10:CB_GetItemsCount	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:217:10:CB_GetItemSize	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:230:10:CB_GetFreeItemFromHead	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:256:10:CB_GetReadyItemFromTail	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:280:10:CB_ReleaseItem	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:305:10:CB_SetItemReady	4
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:330:7:CB_GetItemData	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:337:7:CB_GetItemsBuffer	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/CircularBuffer.c:344:9:CB_PeekNextItem	7

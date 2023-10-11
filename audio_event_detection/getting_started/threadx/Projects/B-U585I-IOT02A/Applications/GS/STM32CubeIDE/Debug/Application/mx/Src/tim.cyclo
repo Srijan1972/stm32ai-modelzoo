@@ -1,0 +1,3 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/tim.c:30:6:MX_TIM7_Init	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/tim.c:63:6:HAL_TIM_Base_MspInit	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/mx/Src/tim.c:79:6:HAL_TIM_Base_MspDeInit	2

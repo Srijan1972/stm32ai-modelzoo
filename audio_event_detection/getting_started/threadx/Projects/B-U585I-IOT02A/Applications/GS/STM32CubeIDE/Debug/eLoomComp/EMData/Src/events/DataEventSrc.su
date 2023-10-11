@@ -1,0 +1,4 @@
+../../../../../../Projects/eLooM_Components/EMData/Inc/events/IDataEventListener_vtbl.h:64:18:IDataEventListenerOnNewDataReady	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/events/DataEventSrc.c:62:12:DataEventSrcAlloc	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/events/DataEventSrc.c:72:12:DataEventSrcAllocStatic	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/events/DataEventSrc.c:85:18:DataEventSrc_vtblSendEvent	40	static

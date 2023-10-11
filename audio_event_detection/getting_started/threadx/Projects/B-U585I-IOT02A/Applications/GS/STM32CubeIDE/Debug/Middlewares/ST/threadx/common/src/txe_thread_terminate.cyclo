@@ -1,0 +1,2 @@
+../../../../../../Middlewares/ST/threadx/ports/cortex_m33/gnu/inc/tx_port.h:294:28:_get_ipsr	1
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Middlewares/ST/threadx/common/src/txe_thread_terminate.c:75:7:_txe_thread_terminate	4

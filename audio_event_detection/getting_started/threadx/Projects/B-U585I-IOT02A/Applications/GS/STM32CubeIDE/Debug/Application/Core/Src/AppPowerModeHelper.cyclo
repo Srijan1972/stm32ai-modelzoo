@@ -1,0 +1,8 @@
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:78:22:AppPowerModeHelperAlloc	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:98:18:AppPowerModeHelper_vtblInit	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:109:12:AppPowerModeHelper_vtblComputeNewPowerMode	9
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:151:11:AppPowerModeHelper_vtblCheckPowerModeTransaction	13
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:188:18:AppPowerModeHelper_vtblDidEnterPowerMode	11
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:253:12:AppPowerModeHelper_vtblGetActivePowerMode	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:260:16:AppPowerModeHelper_vtblGetPowerStatus	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/AppPowerModeHelper.c:267:11:AppPowerModeHelper_vtblIsLowPowerMode	1

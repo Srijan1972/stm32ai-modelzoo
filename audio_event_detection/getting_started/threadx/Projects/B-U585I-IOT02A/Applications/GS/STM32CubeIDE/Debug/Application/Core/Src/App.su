@@ -1,0 +1,4 @@
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTask_vtbl.h:247:18:AMTSetPMStateRemapFunc	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/App.c:109:18:SysLoadApplicationContext	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/App.c:149:18:SysOnStartApplication	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/App.c:176:22:SysGetPowerModeHelper	8	static

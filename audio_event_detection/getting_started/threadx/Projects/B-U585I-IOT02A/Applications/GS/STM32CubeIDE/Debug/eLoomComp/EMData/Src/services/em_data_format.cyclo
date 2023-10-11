@@ -1,0 +1,9 @@
+../../../../../../Projects/eLooM_Components/EMData/Inc/services/em_data_format.h:414:8:EMD_GetElementSize	2
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:56:18:EMD_Init	14
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:106:18:EMD_InitWithCustomType	13
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:155:8:EMD_GetPayloadSize	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:169:18:EMD_GetValueAt	10
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:217:10:EMD_DataAt	9
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:265:13:EMD_Compare	18
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:321:18:EMD_1dInit	3
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/EMData/Src/services/em_data_format.c:337:18:EMD_1dInitWithCustomType	2

@@ -76,14 +76,14 @@ quantization:
 
 stm32ai:
   c_project_path: ../../getting_started/threadx # Change to ../../getting_started/threadx to use threadx version
-  serie: STM32U5
+  serie: STM32L4
   IDE: GCC
   verbosity: 1
-  version: 7.3.0
+  version: 8.1.0
   optimization: balanced
-  footprints_on_target: B-U585I-IOT02A
-  path_to_stm32ai: STM32Cube\Repository\Packs\STMicroelectronics\X-CUBE-AI\8.0.0\Utilities\windows\stm32ai.exe
-  path_to_cubeIDE: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\stm32cubeide.exe
+  footprints_on_target: STEVAL-STLCS01V1
+  path_to_stm32ai: /home/srijan/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-AI/8.1.0/Utilities/linux/stm32ai
+  path_to_cubeIDE: /opt/st/stm32cubeide_1.13.2/stm32cubeide
 
   
 mlflow:

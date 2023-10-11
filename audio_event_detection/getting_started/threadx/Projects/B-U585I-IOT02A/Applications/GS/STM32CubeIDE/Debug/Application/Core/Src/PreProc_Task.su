@@ -1,0 +1,14 @@
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:142:18:AMTInitEx	16	static
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:165:18:AMTExSetInactiveState	16	static
+../../../../../../Middlewares/ST/eLooM/Inc/services/AManagedTaskEx_vtbl.h:181:18:AMTExSetPMClass	16	static
+../../../../../../Projects/eLooM_Components/DPU/Inc/ADPU2.h:414:8:ADPU2_GetInDataPayloadSize	16	static
+../../../../../../Projects/eLooM_Components/DPU/Inc/ADPU2.h:422:8:ADPU2_GetOutDataPayloadSize	16	static
+../../Core/Inc/DProcessTask1.h:350:10:DPT1AddDPU	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:128:17:PreProc_TaskAlloc	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:140:17:PreProc_TaskStaticAlloc	24	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:155:18:PreProc_TaskSetDpuInBuffer	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:172:18:PreProc_TaskSetSpectrogramType	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:192:18:PreProc_Task_vtblOnCreateTask	48	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:250:18:PreProc_Task_vtblDoEnterPowerMode	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:288:25:PreProc_TaskExecuteStepState1	72	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/B-U585I-IOT02A/Applications/GS/Core/Src/PreProc_Task.c:358:25:PreProc_TaskExecuteStepAIActive	64	static

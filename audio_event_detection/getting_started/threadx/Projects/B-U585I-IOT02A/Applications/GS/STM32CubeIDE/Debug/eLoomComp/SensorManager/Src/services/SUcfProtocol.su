@@ -1,0 +1,10 @@
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/ISensorLL_vtbl.h:58:32:ISensorWriteReg	32	static
+../../../../../../Projects/eLooM_Components/SensorManager/Inc/ISensorLL_vtbl.h:63:32:ISensorSyncModel	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:27:18:UCFP_Init	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:36:18:UCFP_LoadCompressedUcf	56	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:99:18:UCFP_LoadUcf	32	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:110:18:UCFP_LoadUcfHeader	40	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:151:18:UCFP_GetCompressedUcf	48	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:195:18:UCFP_GetUcf	40	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:249:10:UCFP_CompressedUcfSize	16	static
+/home/srijan/Documents/COL788/stm32ai-modelzoo/audio_event_detection/getting_started/threadx/Projects/eLooM_Components/SensorManager/Src/services/SUcfProtocol.c:254:10:UCFP_UcfSize	16	static
